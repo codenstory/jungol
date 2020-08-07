@@ -1,2 +1,2 @@
 # jungol
-jungol.co.kr xss test(php sess hijk.)
+[jungol.co.kr](JUNGOL) hacking project
